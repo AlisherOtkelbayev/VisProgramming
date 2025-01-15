@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.exe.config
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\bin\Debug\NumberGuessApp.pdb
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.AssemblyReference.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.Form1.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.Properties.Resources.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\NumberGuessApp\NumberGuessApp\obj\Debug\NumberGuessApp.pdb

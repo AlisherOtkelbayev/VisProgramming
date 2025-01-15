@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.exe.config
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\bin\Debug\RockPaperScissorsApp.pdb
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.csproj.AssemblyReference.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.Form1.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.Properties.Resources.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\RockPaperScissorsApp\RockPaperScissorsApp\obj\Debug\RockPaperScissorsApp.pdb

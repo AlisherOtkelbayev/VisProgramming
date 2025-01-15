@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.csproj.AssemblyReference.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.Form1.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.Properties.Resources.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\bin\Debug\SeatsApp.exe.config
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\bin\Debug\SeatsApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\bin\Debug\SeatsApp.pdb
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\SeatsApp\SeatsApp\obj\Debug\SeatsApp.pdb
