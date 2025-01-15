@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.csproj.AssemblyReference.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.Form1.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.Properties.Resources.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\bin\Debug\LicenseExam.exe.config
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\bin\Debug\LicenseExam.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\bin\Debug\LicenseExam.pdb
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\LicenseExam\LicenseExam\obj\Debug\LicenseExam.pdb

@@ -1,0 +1,10 @@
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\bin\Debug\NFactorialApp.exe.config
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\bin\Debug\NFactorialApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\bin\Debug\NFactorialApp.pdb
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.csproj.AssemblyReference.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.Form1.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.Properties.Resources.resources
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.csproj.GenerateResource.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.csproj.CoreCompileInputs.cache
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.exe
+C:\Users\Алишер\Desktop\VisualCodingCourse\NFactorialApp\NFactorialApp\obj\Debug\NFactorialApp.pdb
